@@ -284,9 +284,8 @@ self.tokenizer.save_pretrained("llm_classifier/train_model/tokenizer/my_experime
 - Ensure that your environment has the necessary libraries installed.
 - Use the appropriate model names supported by the `transformers` library.
 - The script assumes that the dataset is in a specific format, make sure your data adheres to it.
+- For more details, refer to the comments and structure within the `LLM_classifier.py` script.
 
 # Reference
 
 Soon to be published
-
-For more details, refer to the comments and structure within the `LLM_classifier.py` script.
